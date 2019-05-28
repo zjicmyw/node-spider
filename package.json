@@ -1,0 +1,26 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "spider demo",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "superagent": "^5.0.5",
+    "webpack": "^4.32.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjicmyw/node-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjicmyw/node-spider/issues"
+  },
+  "homepage": "https://github.com/zjicmyw/node-spider#readme"
+}
